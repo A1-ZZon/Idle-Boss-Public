@@ -11,13 +11,10 @@
 ```
 Unity, C#
 ```
-<br/>
-
 ### :bulb: 게임 설명
 
 > 보스가 살고 있는 큐브 행성에 히어로들이 쳐들어온다 . . .  
 히어로들을 물리치고 스탯을 강화해 점점 강해지는 방치형 게임!   
-<br/>
 
 ### :bulb: Notion    
 [Team Notion](https://teamsparta.notion.site/Z1-ce7f9790aa424f2c89cc06ca71a237bb)  
@@ -28,11 +25,13 @@ Unity, C#
 <br/>
 
 ### :bulb: 사용 기능
-![image](https://github.com/JeongEunJi1127/practice/assets/43170505/7ec0068b-becf-4543-bf2a-a4be653d11fa)
+![Image](https://github.com/A1-ZZon/Idle-Boss-Public/assets/43170505/cd9e336a-9784-44ca-a6ce-cd183ce02a1c)
+
 <br/>
 
 ### :bulb: 클래스 구조
-![image](https://github.com/JeongEunJi1127/practice/assets/43170505/6a10b27b-a915-4b62-97e9-a21a72792aee)
-![image](https://github.com/JeongEunJi1127/practice/assets/43170505/a883fdee-c11f-4fd7-ad6c-251b8ebd4450)
+![image](https://github.com/A1-ZZon/Idle-Boss-Public/assets/43170505/c9d7014b-5745-4f41-b7ac-71376c0aa24e)
+![image](https://github.com/A1-ZZon/Idle-Boss-Public/assets/43170505/3410c77f-0249-4209-a682-63441f2f96c4)
+
 
 
