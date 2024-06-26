@@ -34,4 +34,13 @@ Unity, C#
 ![image](https://github.com/A1-ZZon/Idle-Boss-Public/assets/43170505/3410c77f-0249-4209-a682-63441f2f96c4)
 
 
+<br/>
+
+### :bulb: 트러블 슈팅
+![image](https://github.com/A1-ZZon/.github/assets/43170505/0837ec04-e30e-4332-9309-f1c662eb873a)
+![image](https://github.com/A1-ZZon/.github/assets/43170505/d5631c8a-f4f2-4066-99d5-dabfe3346d08)
+![image](https://github.com/A1-ZZon/.github/assets/43170505/3ee5d2dc-d579-4508-a05f-89f9c767cc94)
+![image](https://github.com/A1-ZZon/.github/assets/43170505/643da7ee-a801-4c00-b973-abbf44a5b9f1)
+
+
 
